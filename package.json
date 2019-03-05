@@ -1,0 +1,22 @@
+{
+  "name": "cheeseburger",
+  "version": "0.0.1",
+  "description": "cheeseburger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgolovanov/cheeseburger.git"
+  },
+  "keywords": [
+    "cheeseburger"
+  ],
+  "author": "Igor Golovanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorgolovanov/cheeseburger/issues"
+  },
+  "homepage": "https://github.com/igorgolovanov/cheeseburger#readme"
+}
